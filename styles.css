@@ -1,6 +1,8 @@
 img.fire {
     border-radius: 0px 50px 50px 0px;
-    margin-top: 15px
+    margin-top: 15px;
+    width:600px;
+    height:400px;
 }
 
 body {
@@ -27,4 +29,9 @@ body {
 img.long-lights {
     float: right;
     margin-top: 15px
+}
+
+.lorem {
+    float: right;
+    display: block;
 }
