@@ -1,0 +1,30 @@
+img.fire {
+    border-radius: 0px 50px 50px 0px;
+    margin-top: 15px
+}
+
+body {
+    background-color: black;
+}
+
+.display-1 {
+    margin-left: 300px
+}
+
+.display-4 {
+    text-align: right;
+    margin-right: 500px;
+    display: block;
+    color: rgb(107, 107, 107);
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text, .navbar-custom .navbar-nav .nav-link {
+    color: rgb(77, 77, 77);
+    background-color: black;
+}
+
+img.long-lights {
+    float: right;
+    margin-top: 15px
+}
